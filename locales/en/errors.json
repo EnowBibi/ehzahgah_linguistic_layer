@@ -1,0 +1,15 @@
+{
+  "INSUFFICIENT_FUNDS": "Your balance is too low to cover this amount and its fee.",
+  "UNKNOWN_BENEFICIARY": "No beneficiary found with this name or number.",
+  "LIMIT_EXCEEDED": "This amount is above the limit for one transaction.",
+  "INVALID_AMOUNT": "The amount is not valid. Enter a whole number above zero.",
+  "UNKNOWN_BILLER": "This biller is not known.",
+  "TX_NOT_FOUND": "This transaction was not found.",
+  "TX_NOT_PENDING": "This transaction is no longer waiting for confirmation.",
+  "UNAUTHORIZED": "Access is not allowed.",
+  "UNKNOWN_ACCOUNT": "This account was not found.",
+  "INVALID_REQUEST": "The request is not valid.",
+  "TIMEOUT": "The service took too long. Please try again.",
+  "NETWORK": "The service is not reachable. Please try again.",
+  "DEFAULT": "Something went wrong. Please try again."
+}

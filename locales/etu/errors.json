@@ -1,0 +1,15 @@
+{
+  "INSUFFICIENT_FUNDS": "",
+  "UNKNOWN_BENEFICIARY": "",
+  "LIMIT_EXCEEDED": "",
+  "INVALID_AMOUNT": "",
+  "UNKNOWN_BILLER": "",
+  "TX_NOT_FOUND": "",
+  "TX_NOT_PENDING": "",
+  "UNAUTHORIZED": "",
+  "UNKNOWN_ACCOUNT": "",
+  "INVALID_REQUEST": "",
+  "TIMEOUT": "",
+  "NETWORK": "",
+  "DEFAULT": ""
+}

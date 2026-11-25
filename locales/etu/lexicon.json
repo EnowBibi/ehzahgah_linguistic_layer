@@ -1,0 +1,31 @@
+{
+  "intents": {
+    "BALANCE_INQUIRY": [],
+    "TRANSFER": [],
+    "FEE_INQUIRY": [],
+    "TRANSACTION_HISTORY": [],
+    "AIRTIME_PURCHASE": [],
+    "BILL_PAYMENT": [],
+    "TERM_EXPLANATION": [],
+    "LANGUAGE_SWITCH": []
+  },
+  "confirm": [
+    "1"
+  ],
+  "cancel": [
+    "2"
+  ],
+  "markers": {
+    "beneficiary": []
+  },
+  "terms": {
+    "fee": [],
+    "limit": [],
+    "beneficiary": [],
+    "balance": [],
+    "transfer": []
+  },
+  "languages": {
+    "ejagham": "etu"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "INSUFFICIENT_FUNDS": "Votre solde est insuffisant pour ce montant et ses frais.",
+  "UNKNOWN_BENEFICIARY": "Aucun bénéficiaire trouvé avec ce nom ou ce numéro.",
+  "LIMIT_EXCEEDED": "Ce montant dépasse la limite par transaction.",
+  "INVALID_AMOUNT": "Le montant n'est pas valide. Saisissez un nombre entier supérieur à zéro.",
+  "UNKNOWN_BILLER": "Ce facturier n'est pas connu.",
+  "TX_NOT_FOUND": "Cette transaction est introuvable.",
+  "TX_NOT_PENDING": "Cette transaction n'attend plus de confirmation.",
+  "UNAUTHORIZED": "Accès non autorisé.",
+  "UNKNOWN_ACCOUNT": "Ce compte est introuvable.",
+  "INVALID_REQUEST": "La demande n'est pas valide.",
+  "TIMEOUT": "Le service a mis trop de temps. Réessayez.",
+  "NETWORK": "Le service est injoignable. Réessayez.",
+  "DEFAULT": "Une erreur s'est produite. Réessayez."
+}

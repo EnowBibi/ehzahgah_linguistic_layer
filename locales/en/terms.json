@@ -1,0 +1,7 @@
+{
+  "fee": "A fee is the money the bank charges you to send money.",
+  "limit": "A limit is the largest amount you can send in one transaction.",
+  "beneficiary": "A beneficiary is the person who receives the money you send.",
+  "balance": "Your balance is the money in your account right now.",
+  "transfer": "A transfer is sending money from your account to another person's account."
+}

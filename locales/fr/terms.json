@@ -1,0 +1,7 @@
+{
+  "fee": "Les frais sont l'argent que la banque vous facture pour envoyer de l'argent.",
+  "limit": "La limite est le montant maximal que vous pouvez envoyer en une transaction.",
+  "beneficiary": "Le bénéficiaire est la personne qui reçoit l'argent que vous envoyez.",
+  "balance": "Votre solde est l'argent disponible sur votre compte maintenant.",
+  "transfer": "Un transfert consiste à envoyer de l'argent de votre compte vers le compte d'une autre personne."
+}

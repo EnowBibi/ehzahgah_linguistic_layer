@@ -1,0 +1,20 @@
+{
+  "balance.result": "Votre solde est de {balance}.",
+  "fees.result": "Les frais pour envoyer {amount} sont de {fee}. Total : {total}.",
+  "history.header": "Transactions récentes :",
+  "history.line": "{date} {description} {sign}{amount}",
+  "history.empty": "Aucune transaction récente.",
+  "transfer.review": "Envoyer {amount} à {beneficiary}. Frais : {fee}. Total : {total}.\n1. Confirmer\n2. Annuler",
+  "transfer.done": "Terminé. {amount} envoyés à {beneficiary}. Référence : {id}.",
+  "transfer.cancelled": "Transfert annulé.",
+  "confirm.reprompt": "Répondez 1 pour confirmer ou 2 pour annuler.",
+  "clarify.amount": "Quel montant voulez-vous envoyer ?",
+  "clarify.beneficiary": "Qui doit recevoir l'argent ? Donnez un nom ou un numéro.",
+  "clarify.candidates": "Plusieurs personnes correspondent. Laquelle ?\n{candidates}",
+  "clarify.generic": "Je n'ai pas compris. Voulez-vous votre solde, un transfert, les frais ou l'historique ?",
+  "nothing.pending": "Aucun transfert n'attend de confirmation.",
+  "feature.unavailable": "Ce service n'est pas encore disponible.",
+  "language.switched": "Langue changée en français.",
+  "language.unsupported": "Cette langue n'est pas disponible.",
+  "menu.main": "1. Solde\n2. Transfert\n3. Frais\n4. Historique"
+}

@@ -1,0 +1,108 @@
+{
+  "intents": {
+    "BALANCE_INQUIRY": [
+      "ragowar kuɗi",
+      "ragowar kudi",
+      "nawa ne a asusu",
+      "nawa nake da shi",
+      "duba asusu",
+      "duba ragowar kuɗi"
+    ],
+    "TRANSFER": [
+      "tura",
+      "tura kuɗi",
+      "tura kudi",
+      "aika kuɗi",
+      "aika kudi",
+      "aika"
+    ],
+    "FEE_INQUIRY": [
+      "kuɗin caji",
+      "kudin caji",
+      "nawa ne kuɗin caji",
+      "nawa ne kudin caji",
+      "caji"
+    ],
+    "TRANSACTION_HISTORY": [
+      "tarihin hada-hada",
+      "tarihin hada hada",
+      "hada-hadar kwanan nan",
+      "hada hadar kwanan nan"
+    ],
+    "AIRTIME_PURCHASE": [
+      "katin waya",
+      "sayi katin waya"
+    ],
+    "BILL_PAYMENT": [
+      "kuɗin wuta",
+      "kudin wuta",
+      "biyan kuɗin wuta",
+      "kuɗin ruwa",
+      "kudin ruwa"
+    ],
+    "TERM_EXPLANATION": [
+      "menene",
+      "mene ne",
+      "ma'anar",
+      "me ake nufi da",
+      "bayyana"
+    ],
+    "LANGUAGE_SWITCH": [
+      "canja harshe",
+      "canza harshe",
+      "harshe",
+      "koma"
+    ]
+  },
+  "confirm": [
+    "eh",
+    "ee",
+    "to",
+    "tabbatar",
+    "na tabbatar",
+    "1"
+  ],
+  "cancel": [
+    "a'a",
+    "aa",
+    "soke",
+    "bar shi",
+    "2"
+  ],
+  "markers": {
+    "beneficiary": [
+      "zuwa",
+      "ga",
+      "wa"
+    ]
+  },
+  "terms": {
+    "fee": [
+      "kuɗin caji",
+      "kudin caji",
+      "caji"
+    ],
+    "limit": [
+      "iyaka"
+    ],
+    "beneficiary": [
+      "mai karɓa",
+      "mai karba"
+    ],
+    "balance": [
+      "ragowar kuɗi",
+      "ragowar kudi"
+    ],
+    "transfer": [
+      "tura kuɗi",
+      "tura kudi"
+    ]
+  },
+  "languages": {
+    "hausa": "hau",
+    "hausanci": "hau",
+    "turanci": "en",
+    "faransanci": "fr",
+    "ejagham": "etu"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "intents": {
+    "BALANCE_INQUIRY": [
+      "solde",
+      "mon solde",
+      "combien j'ai",
+      "consulter solde"
+    ],
+    "TRANSFER": [
+      "envoyer",
+      "envoie",
+      "transfert",
+      "transférer",
+      "virement",
+      "payer"
+    ],
+    "FEE_INQUIRY": [
+      "frais",
+      "combien ça coûte",
+      "coût de l'envoi",
+      "tarif"
+    ],
+    "TRANSACTION_HISTORY": [
+      "historique",
+      "transactions",
+      "dernières transactions",
+      "relevé"
+    ],
+    "AIRTIME_PURCHASE": [
+      "crédit",
+      "recharge",
+      "recharger",
+      "airtime"
+    ],
+    "BILL_PAYMENT": [
+      "facture",
+      "payer facture",
+      "électricité",
+      "eau"
+    ],
+    "TERM_EXPLANATION": [
+      "c'est quoi",
+      "qu'est-ce que",
+      "qu'est ce que",
+      "explique",
+      "signifie",
+      "que veut dire"
+    ],
+    "LANGUAGE_SWITCH": [
+      "passer en",
+      "changer de langue",
+      "parler",
+      "langue"
+    ]
+  },
+  "confirm": [
+    "oui",
+    "ok",
+    "confirmer",
+    "1"
+  ],
+  "cancel": [
+    "non",
+    "annuler",
+    "stop",
+    "2"
+  ],
+  "markers": {
+    "beneficiary": [
+      "à",
+      "pour"
+    ]
+  },
+  "terms": {
+    "fee": [
+      "frais",
+      "tarif"
+    ],
+    "limit": [
+      "limite",
+      "plafond"
+    ],
+    "beneficiary": [
+      "bénéficiaire",
+      "destinataire"
+    ],
+    "balance": [
+      "solde"
+    ],
+    "transfer": [
+      "transfert",
+      "virement"
+    ]
+  },
+  "languages": {
+    "anglais": "en",
+    "français": "fr",
+    "francais": "fr",
+    "haoussa": "hau",
+    "hausa": "hau",
+    "ejagham": "etu",
+    "douala": "dua",
+    "duala": "dua",
+    "ewondo": "ewo",
+    "bassa": "bas",
+    "basaa": "bas",
+    "fulfulde": "fub",
+    "peul": "fub"
+  },
+  "possessive": [
+    "mon",
+    "ma",
+    "mes"
+  ]
+}

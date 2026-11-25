@@ -1,0 +1,20 @@
+{
+  "balance.result": "Ragowar kuɗin ku shi ne {balance}.",
+  "fees.result": "Kuɗin caji na tura {amount} shi ne {fee}. Jimilla: {total}.",
+  "history.header": "Hada-hadar ta kwanan nan:",
+  "history.line": "{date} {description} {sign}{amount}",
+  "history.empty": "Babu hada-hadar ta kwanan nan.",
+  "transfer.review": "Za ku tura {amount} zuwa ga {beneficiary}. Kuɗin caji: {fee}. Jimilla: {total}.\n1. Tabbatar\n2. Soke",
+  "transfer.done": "An gama. An tura {amount} zuwa ga {beneficiary}. Lambar tunani: {id}.",
+  "transfer.cancelled": "An soke tura kuɗin.",
+  "confirm.reprompt": "Ku amsa 1 don tabbatarwa ko 2 don sokewa.",
+  "clarify.amount": "Nawa kuke so ku tura?",
+  "clarify.beneficiary": "Wane ne zai karɓa? Ku bayar da suna ko lambar waya.",
+  "clarify.candidates": "Mutane da yawa sun yi daidai. Wane ne?\n{candidates}",
+  "clarify.generic": "Ban fahimta ba. Kuna so ku ga ragowar kuɗi, tura kuɗi, kuɗin caji ko tarihin hada-hadar?",
+  "nothing.pending": "Babu tura kuɗin da ke jiran tabbatarwa.",
+  "feature.unavailable": "Wannan sabis ba ya nan tukuna.",
+  "language.switched": "An canja harshe zuwa Hausa.",
+  "language.unsupported": "Ba a samun wannan harshen.",
+  "menu.main": "1. Ragowar kuɗi\n2. Tura kuɗi\n3. Kuɗin caji\n4. Tarihin hada-hadar"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Hausa",
+  "status": "draft",
+  "validated": false,
+  "note": "Drafted for testing. Must be reviewed by a fluent Hausa speaker before any demonstration. The lexicon lists phrases a user may type. Digits and French or English words are also understood through the fallback chain."
+}

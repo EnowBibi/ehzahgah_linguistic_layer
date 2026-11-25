@@ -1,0 +1,6 @@
+{
+  "name": "Ejagham",
+  "status": "awaiting translation",
+  "validated": false,
+  "note": "No text has been written yet. Empty values fall back to French then English, so the pipeline works while the language is being written. Reference text for every message id is in locales/en/messages.json."
+}

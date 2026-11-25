@@ -1,0 +1,109 @@
+{
+  "intents": {
+    "BALANCE_INQUIRY": [
+      "balance",
+      "my balance",
+      "how much do i have",
+      "check balance"
+    ],
+    "TRANSFER": [
+      "send",
+      "transfer",
+      "send money",
+      "transfer money",
+      "pay"
+    ],
+    "FEE_INQUIRY": [
+      "fee",
+      "fees",
+      "how much does it cost",
+      "cost of sending",
+      "charges"
+    ],
+    "TRANSACTION_HISTORY": [
+      "history",
+      "transactions",
+      "recent transactions",
+      "statement"
+    ],
+    "AIRTIME_PURCHASE": [
+      "airtime",
+      "top up",
+      "recharge",
+      "credit"
+    ],
+    "BILL_PAYMENT": [
+      "bill",
+      "pay bill",
+      "electricity",
+      "water"
+    ],
+    "TERM_EXPLANATION": [
+      "what is",
+      "what does",
+      "explain",
+      "meaning of",
+      "what are"
+    ],
+    "LANGUAGE_SWITCH": [
+      "switch to",
+      "change language",
+      "speak",
+      "language"
+    ]
+  },
+  "confirm": [
+    "yes",
+    "ok",
+    "confirm",
+    "1"
+  ],
+  "cancel": [
+    "no",
+    "cancel",
+    "stop",
+    "2"
+  ],
+  "markers": {
+    "beneficiary": [
+      "to",
+      "for"
+    ]
+  },
+  "terms": {
+    "fee": [
+      "fee",
+      "fees",
+      "charge",
+      "charges"
+    ],
+    "limit": [
+      "limit",
+      "limits"
+    ],
+    "beneficiary": [
+      "beneficiary",
+      "recipient"
+    ],
+    "balance": [
+      "balance"
+    ],
+    "transfer": [
+      "transfer"
+    ]
+  },
+  "languages": {
+    "english": "en",
+    "french": "fr",
+    "hausa": "hau",
+    "ejagham": "etu",
+    "duala": "dua",
+    "ewondo": "ewo",
+    "basaa": "bas",
+    "fulfulde": "fub"
+  },
+  "possessive": [
+    "my",
+    "mine"
+  ]
+}

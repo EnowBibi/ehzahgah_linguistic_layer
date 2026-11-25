@@ -1,0 +1,11 @@
+{
+  "trace_id": "6f1c0000-0000-0000-0000-000000000002",
+  "team_id": "your-team",
+  "channel": "web",
+  "session_id": "sess-002",
+  "phone": "2376XXXXXXXX",
+  "language": "etu",
+  "input": { "type": "text", "text": "balance" },
+  "constraints": { "charset": "utf8", "mode": "ui_translation", "timeout_ms": 10000 },
+  "bank_api": { "base_url": "https://safinum.cm/api/v1" }
+}

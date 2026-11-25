@@ -1,0 +1,20 @@
+{
+  "balance.result": "",
+  "fees.result": "",
+  "history.header": "",
+  "history.line": "",
+  "history.empty": "",
+  "transfer.review": "",
+  "transfer.done": "",
+  "transfer.cancelled": "",
+  "confirm.reprompt": "",
+  "clarify.amount": "",
+  "clarify.beneficiary": "",
+  "clarify.candidates": "",
+  "clarify.generic": "",
+  "nothing.pending": "",
+  "feature.unavailable": "",
+  "language.switched": "",
+  "language.unsupported": "",
+  "menu.main": ""
+}

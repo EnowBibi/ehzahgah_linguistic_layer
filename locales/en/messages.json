@@ -1,0 +1,20 @@
+{
+  "balance.result": "Your balance is {balance}.",
+  "fees.result": "The fee for sending {amount} is {fee}. Total: {total}.",
+  "history.header": "Recent transactions:",
+  "history.line": "{date} {description} {sign}{amount}",
+  "history.empty": "No recent transactions.",
+  "transfer.review": "Send {amount} to {beneficiary}. Fee: {fee}. Total: {total}.\n1. Confirm\n2. Cancel",
+  "transfer.done": "Done. {amount} sent to {beneficiary}. Reference: {id}.",
+  "transfer.cancelled": "Transfer cancelled.",
+  "confirm.reprompt": "Please answer 1 to confirm or 2 to cancel.",
+  "clarify.amount": "How much do you want to send?",
+  "clarify.beneficiary": "Who should receive the money? Give a name or a phone number.",
+  "clarify.candidates": "Several people match. Which one?\n{candidates}",
+  "clarify.generic": "I did not understand. Do you want your balance, a transfer, fees or your history?",
+  "nothing.pending": "No transfer is waiting for confirmation.",
+  "feature.unavailable": "This service is not available yet.",
+  "language.switched": "Language changed to English.",
+  "language.unsupported": "This language is not available.",
+  "menu.main": "1. Balance\n2. Transfer\n3. Fees\n4. History"
+}

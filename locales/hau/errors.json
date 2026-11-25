@@ -1,0 +1,15 @@
+{
+  "INSUFFICIENT_FUNDS": "Kuɗin da ke asusunku bai isa wannan adadi da kuɗin cajinsa ba.",
+  "UNKNOWN_BENEFICIARY": "Ba a sami mai karɓa mai wannan suna ko lamba ba.",
+  "LIMIT_EXCEEDED": "Adadin ya wuce iyakar da aka yarda a hada-hada ɗaya.",
+  "INVALID_AMOUNT": "Adadin bai dace ba. Ku shigar da cikakkiyar lamba fiye da sifili.",
+  "UNKNOWN_BILLER": "Ba a san wannan kamfanin ba.",
+  "TX_NOT_FOUND": "Ba a sami wannan hada-hadar ba.",
+  "TX_NOT_PENDING": "Wannan hada-hadar ba ta jiran tabbatarwa kuma.",
+  "UNAUTHORIZED": "Ba a ba da izini ba.",
+  "UNKNOWN_ACCOUNT": "Ba a sami wannan asusun ba.",
+  "INVALID_REQUEST": "Buƙatar ba ta dace ba.",
+  "TIMEOUT": "Sabis ɗin ya ɗauki lokaci mai yawa. Don Allah ku sake gwadawa.",
+  "NETWORK": "Ba a iya samun sabis ɗin. Don Allah ku sake gwadawa.",
+  "DEFAULT": "Akwai matsala. Don Allah ku sake gwadawa."
+}
